@@ -1,25 +1,8 @@
-# Lista de linguagens
+## Awesome Programming Languages
 
-- Javascript
-
-    Prós:
-
-    Contras:
-
-- PHP
-
-    Prós:
-
-    Contras:
-
-- Ruby
-
-    Prós:
-
-    Contras:
-
-- Java 
-
-    Prós:
-
-    Contras:
+| | Prós | Contras |
+| --- | --- | --- |
+| Java | | |
+| JavaScript | | |
+| PHP | | |
+| Ruby | | |
