@@ -23,18 +23,20 @@
     Prós:
 
     Contras:
--C
+*C
 Prós:
 
 Contras:
 
 
--Python
+*Python
 Prós:
 
 Contras:
 
--Assembly
+
+
+*Assembly
 Prós:
 
 
