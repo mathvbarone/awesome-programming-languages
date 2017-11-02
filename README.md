@@ -23,14 +23,23 @@
     Prós:
 
     Contras:
+
+
+
 *C
+
 Prós:
+
 
 Contras:
 
 
 *Python
+
+
 Prós:
+
+
 
 Contras:
 
@@ -38,6 +47,7 @@ Contras:
 
 *Assembly
 Prós:
+
 
 
 Contras:
