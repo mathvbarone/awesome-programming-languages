@@ -1,4 +1,5 @@
-# Lista de linguagens
+
+## Awesome Programming Languages
 
 |            | Prós | Contras |
 |------------|------|---------|
@@ -6,3 +7,4 @@
 | PHP        |      |         |
 | Java       |      |         |
 | Ruby       |      |         |
+
