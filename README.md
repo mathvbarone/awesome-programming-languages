@@ -45,8 +45,15 @@ Contras:
 
 
 
+
+
+
+
 *Assembly
+
+
 Prós:
+
 
 
 
