@@ -58,3 +58,17 @@ Prós:
 
 
 Contras:
+*C++
+
+Prós:
+
+
+Contras:
+
+
+*Rust:
+
+Prós:
+
+
+Contras:
