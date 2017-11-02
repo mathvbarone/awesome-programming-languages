@@ -23,3 +23,19 @@
     Prós:
 
     Contras:
+-C
+Prós:
+
+Contras:
+
+
+-Python
+Prós:
+
+Contras:
+
+-Assembly
+Prós:
+
+
+Contras:
