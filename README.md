@@ -1,8 +1,10 @@
+
 ## Awesome Programming Languages
 
-| | Prós | Contras |
-| --- | --- | --- |
-| Java | | |
-| JavaScript | | |
-| PHP | | |
-| Ruby | | |
+|            | Prós | Contras |
+|------------|------|---------|
+| Javascript |      |         |
+| PHP        |      |         |
+| Java       |      |         |
+| Ruby       |      |         |
+
