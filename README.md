@@ -13,3 +13,4 @@
 | Python      |      |         |
 | Ruby       |      |         |
 | Rust      |      |         |
+|ShellScript|É uma linguagem de script muito utilizada na automação de tarefas que serão realizadas mais de uma vez, na configuração de servidores e de manutenção do sistema operacional. Unindo instruções de terminal com linguagem de programação.|Apesar de ser uma linguagem simples de aprender exige um terminal para executar os comandos o que acaba afastando as pessoas mais leigas. A portabilidade depende da compatibilidade do shell.|
