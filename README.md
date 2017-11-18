@@ -1,4 +1,3 @@
-
 ## Awesome Programming Languages
 
 |            | Prós | Contras |
@@ -13,4 +12,4 @@
 | Python      | É uma linguagem interpretada conhecida por ser utilizada para diversos fins, tais como scripts, desenvolvimento web, aplicações desktop, data science e até jogos. Possui uma sintaxe muito prática de ser compreendida, visto que a sua ideologia preza pela legibilidade de seus códigos. Além disso, os códigos escritos em Python costumam ser bem sucintos, não precisando escrever muito código pra se chegar em um resultado bom.     | Dependendo da necessidade do desenvolvedor, o fato de ser uma linguagem interpretada pode complicar caso o que esteja em jogo seja a velocidade da aplicação.        |
 | Ruby       |      |         |
 | Rust      |      |         |
-|ShellScript|É uma linguagem de script muito utilizada na automação de tarefas que serão realizadas mais de uma vez, na configuração de servidores e de manutenção do sistema operacional. Unindo instruções de terminal com linguagem de programação.|Apesar de ser uma linguagem simples de aprender exige um terminal para executar os comandos o que acaba afastando as pessoas mais leigas. A portabilidade depende da compatibilidade do shell.|
+|ShellScript|É uma linguagem de script muito utilizada na automação de tarefas que serão realizadas mais de uma vez, na configuração de servidores e de manutenção do sistema operacional. Unindo instruções de terminal com linguagem de programação.|Apesar de ser uma linguagem simples de aprender exige um terminal para executar os comandos o que acaba afastando as pessoas mais leigas. A portabilidade depende da compatibilidade do shell. A velocidade da execucao tambem depende do Kernel e da complexidade do script.|
